@@ -4,7 +4,7 @@
   <br>
   
 ##   <p align="center">GBScanner
-  <p align="center">Simple TCP port scaner
+  <p align="center">Simple TCP port scanner
 
 
 
@@ -16,7 +16,7 @@
   
 ## GBScanner
  
- This tools is for fast open port scaner.
+ This tools is for fast open port scanner.
   
 
  
