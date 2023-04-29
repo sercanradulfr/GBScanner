@@ -3,7 +3,7 @@
   
   <br>
   
-##   <p align="center">GBScaner
+##   <p align="center">GBScanner
   <p align="center">Simple TCP port scaner
 
 
@@ -14,7 +14,7 @@
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/therealradulfr/)🍺*</center> </p>
   
   
-## GBScaner
+## GBScanner
  
  This tools is for fast open port scaner.
   
@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![GBScanner Image](/gbscaner.png "GBScanner Image")
+![GBScanner Image](/gbscanner.png "GBScanner Image")
 
 
 
