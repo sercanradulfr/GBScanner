@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![GBScanner Image](/gbscanner.png "GBScanner Image")
+![GBScanner Image](GBScanner/gbscanner.png "GBScanner Image")
 
 
 
